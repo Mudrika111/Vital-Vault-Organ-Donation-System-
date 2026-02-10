@@ -112,11 +112,6 @@ npm run dev
 
 ---
 
-## 📌 License
-This project is licensed under the **MIT License**.
-
----
-
 ### 💡 Future Enhancements
 - Email notifications for request updates
 - Multi-organ donor management
