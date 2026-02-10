@@ -4,7 +4,6 @@
 ![Express](https://img.shields.io/badge/Backend-Express.js-lightgrey)
 ![React](https://img.shields.io/badge/Frontend-React-blue)
 ![Node](https://img.shields.io/badge/Runtime-Node.js-green)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 
 A full-stack **MERN** application designed to connect patients in need of organs with compatible donors, managed and verified by an admin. The system ensures secure authentication, medical record handling, donor availability tracking, and an intelligent blood-type compatibility matching engine.
 
